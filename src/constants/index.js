@@ -83,7 +83,7 @@ export const projects = [
       "Vercel",
     ],
     github: "https://github.com/GilbertusKristo",
-    demo: "https://vercel.com/gilbertuskristos-projects/back-end-absensi/81S1aGC12poibvKxL2zrH5CnLcb8",
+    demo: "https://back-end-absensi.vercel.app/api-docs/",
     image: backendAbsensi,
     type: "backend",
     buttonLabel: "API Demo",
